@@ -1,7 +1,7 @@
 spring:
     jpa.hibernate.ddl-auto: create
     datasource:
-        url: jdbc:mysql://localhost:3306//incidencias
+        url: jdbc:mysql://localhost:3306/incidencias
         username: root
         password: root
     hikari:
